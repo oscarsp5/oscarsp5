@@ -1,2 +1,2 @@
-<h1>GitHUb de oscarsp5 💻</h1>
+<h1>GitHub de oscarsp5 💻</h1>
 
