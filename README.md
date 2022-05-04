@@ -12,12 +12,14 @@
 <h2>📂 Que contiene mi GitHub:</h2>
 
 <ul>
-  <li></li>
-  <p></p>
-  <li></li>
-  <p></p>
-  <li></li>
-  <p></p>
-  <li></li>
-  <p></p>
+  <li>Paginas Web:</li>
+  		  <ul>
+          <li> <a href="https://github.com/oscarsp5/PaginaWeb-ArchivosPDFS">Pagina Web Archivos PDFS</a> </li>
+          <li> <a href="https://github.com/oscarsp5/ProyectoIAW-CarteleraCine">Cartelera Cine</a> </li>
+  	    </ul>
+  <li>Proyectos Programacion ASO:</li>
+    <ul>
+          <li> <a href="https://github.com/oscarsp5/Proyecto-PowerShell-ASO">Proyecto PowerShell</a> </li>
+          <li> <a href="https://github.com/oscarsp5/Proyecto-ASO-bash">Proyecto Bash</a> </li>
+  	    </ul>
 </ul>
