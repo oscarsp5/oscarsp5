@@ -26,7 +26,7 @@
 <li>ASGBD</li>
   
   <ul>
-       <li> <a href="https://github.com/oscarsp5/ASGBD-Repaso">Repaso Ejercicios</a> </li
+       <li> <a href="https://github.com/oscarsp5/ASGBD-Repaso">Repaso Ejercicios-Videos</a> </li
   </ul>
 
 </ul>
